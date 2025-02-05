@@ -1,6 +1,6 @@
-# 💳 Loan Management System (Loan MS 2)
+# 💳 Loan Management System
 
-The **Loan Management System (Loan MS 2)** is a comprehensive web-based application designed to streamline and automate loan management processes. Built using PHP, MySQL, HTML, CSS, and JavaScript, this system provides an efficient solution for managing loans, customers, repayments, and financial reporting.
+The **Loan Management System** is a comprehensive web-based application designed to streamline and automate loan management processes. Built using PHP, MySQL, HTML, CSS, and JavaScript, this system provides an efficient solution for managing loans, customers, repayments, and financial reporting.
 
 ---
 
@@ -37,7 +37,7 @@ The **Loan Management System (Loan MS 2)** is a comprehensive web-based applicat
 ### Steps
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/loan-management-system.git
+   git clone https://github.com/LSAbeysekara/Loan-Management-System.git
 
 Alternatively, download the ZIP file and extract it.
 
