@@ -48,8 +48,8 @@ Alternatively, download the ZIP file and extract it.
 Set Up the Database
 
 Open phpMyAdmin or any MySQL client.
-Create a new database named loan_ms.
-Import the provided SQL file (loan_ms.sql) into the database.
+Create a new database named lsl_db.
+Import the provided SQL file (lsl_db.sql) into the database.
 Configure the Application
 
 Open the config.php file in the includes folder.
@@ -60,7 +60,7 @@ Edit
 $host = "localhost";
 $username = "root";
 $password = "";
-$database = "loan_ms";
+$database = "lsl_db";
 Run the Application
 
 Move the project folder to the htdocs directory (if using XAMPP).
@@ -73,20 +73,16 @@ http://localhost/loan-management-system
 🌟 Usage
 Admin Login
 
-Use the default admin credentials to log in:
-Username: admin
-Password: admin123
 Manage Customers
-
 Add new customers and update their details.
+
 Disburse Loans
-
 Create new loans for customers and track their status.
+
 Track Repayments
-
 View repayment schedules and mark payments as completed.
-Generate Reports
 
+Generate Reports
 Access financial reports for insights into loan operations.
 
 🤝 Contributing
