@@ -65,7 +65,7 @@ Open your browser and navigate to:
 perl
 Copy
 Edit
-http://localhost/loan-management-system
+http://localhost/lsl
 🌟 Usage
 Admin Login
 
