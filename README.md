@@ -2,10 +2,6 @@
 
 The **Loan Management System (Loan MS 2)** is a comprehensive web-based application designed to streamline and automate loan management processes. Built using PHP, MySQL, HTML, CSS, and JavaScript, this system provides an efficient solution for managing loans, customers, repayments, and financial reporting.
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Financial_Services_Icon.svg/512px-Financial_Services_Icon.svg.png" alt="Loan Management System Banner" width="200">
-</div>
-
 ---
 
 ## 🚀 Features
